@@ -7,6 +7,8 @@ public class Test {
 //ÄnderungWindows2
 		// ÄnderungLenovo
 
+		// ÄnderungLenovo
+
 	}
 
 }
