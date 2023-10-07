@@ -6,7 +6,7 @@ public class Test {
 		// ÄnderungWindows
 		// ÄnderungWindows3
 		// ÄnderungLenovo
-		// ÄnderungLenovo
+		// ÄnderungLenovo4
 
 	}
 
