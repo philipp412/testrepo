@@ -6,11 +6,6 @@ public class Test {
 
 		System.out.println("guggu");
 
-		// gragra
-
-
-//hiho
-		// abhfahrt
 	}
 
 }
