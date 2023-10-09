@@ -4,12 +4,6 @@ public class Test {
 
 	public static void main(String[] args) {
 		// ÄnderungWindows
-		// ÄnderungWindows3
-		// ÄnderungLenovo
-		// ÄnderungLenovo2
-		// ÄnderungLenovo3
-		// ÄnderungLenovo4
-
 
 	}
 
